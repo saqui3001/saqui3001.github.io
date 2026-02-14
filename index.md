@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Coming Soon ... 1
+# _Coming Soon ... _
 /*Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
