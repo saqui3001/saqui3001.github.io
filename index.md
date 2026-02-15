@@ -9,9 +9,9 @@ I am a full-stack Web Application Developer and Solution Provider with 27+ years
 - Scalable architecture design for growing businesses.
 - Mobile-optimized user experiences.
 
-# Projects:
+# Projects
 I am working on a number of projects, some notables are as below:
-- I developed a scalable retail e-commerce solution for men's clothing leveraging Django and Python.
+- I developed a Enterprise grade scalable retail e-commerce solution for men's clothing leveraging Django and Python.
 - Working on Automation and Data Analytics leverging Python.
 - Working on an Android/IOS Ecoomerce App for Grocery Marketplace.
 - Also developing a Customer Dashboard plugin for WordPress.
