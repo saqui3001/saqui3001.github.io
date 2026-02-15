@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am a full-stack Web Application Developer and Solution Provider with 27+ years of IT industry experience. My expertise stretch from Solution Architecture design to Application development, Quality assurance and Deployment. I am providing Software Solutions with Python, PHP, HTML and JavaScript for last 10+ years.
+I am a full-stack Web Application Developer and Solution Provider with 27+ years of IT industry experience. My expertise stretch from Solution Architecture design to Application development, Quality assurance and Deployment. I am providing Software Solutions with Python, PHP, HTML, JavaScript and AWS for last 10+ years.
 
 - Expertise in building full-featured Applications.
 - Experience with payment gateway integration and PCI compliance.
