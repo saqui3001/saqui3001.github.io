@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am a full-stack Web Application Developer and Solution Provider with 27+ years of IT industry experience. My expertise stretch from Solution Architecture design to Application development, Quality assurance and Deployment. I am providing Web Solutions for last 10+ years.
+I am a full-stack Web Application Developer and Solution Provider with 27+ years of IT industry experience. My expertise stretch from Solution Architecture design to Application development, Quality assurance and Deployment. I am providing Web Solutions for last 10+ years and I leverge AI for Speed and Automation.
 
 - Expertise in building full-featured Applications.
 - Experience with payment gateway integration and PCI compliance.
@@ -10,10 +10,10 @@ I am a full-stack Web Application Developer and Solution Provider with 27+ years
 - Mobile-optimized user experiences.
 
 # Projects
-I am working on a number of projects, some notables are as below:
-- I developed a Enterprise grade scalable retail e-commerce solution for men's clothing leveraging Django and Python.
-- Working on Automation and Data Analytics leverging Python.
-- Working on an Android/IOS Ecoomerce App for Grocery Marketplace.
+I am into a number of projects, some notables are as below:
+- Enterprise grade scalable retail e-commerce solution for men's clothing leveraging Django and Python.
+- Automation and Data Analytics leverging Python.
+- Android/IOS Ecoomerce App for Grocery Marketplace leverging Flutter.
 - Also developing a Customer Dashboard plugin for WordPress.
 
 # Details Coming Soon ... 
