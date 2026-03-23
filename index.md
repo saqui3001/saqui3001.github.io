@@ -10,14 +10,10 @@ If you’re looking for someone who brings deep technical history and modern AI 
 ## Notable Projects
 I am into number of projects, some completed projects are as below:
 
-### GentlemanManStyle
-Enterprise grade scalable retail e-commerce solutions for Men's Fashionwear. [Learn More](./GentlemanManStyle).
+#### GentlemanManStyle
+> Enterprise grade scalable retail e-commerce solutions for Men's Fashionwear. [Learn More](./GentlemanManStyle).
+> [Demo](https://abc.com/xyz.png)
 
-[Demo](https://abc.com/xyz.png)
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 
 
