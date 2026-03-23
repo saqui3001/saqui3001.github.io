@@ -20,9 +20,9 @@ Cross Platform Enterprise grade retail e-commerce Mobile APP for Men's Fashionwe
 
 
 ## 📊 GitHub Activity
-*I actively develop on 6+ private projects. My contribution graph reflects this work.*
+*I actively working on 6+ private projects. My contribution graph reflects this work.*
 
-[Your contribution graph will show here]
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saqui3001)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
