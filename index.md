@@ -18,7 +18,7 @@ Enterprise grade scalable retail e-commerce solutions for Men's Fashionwear.
 Cross Platform Enterprise grade retail e-commerce Mobile APP for Men's Fashionwear.
 > [Learn More](./GentlemanManStyle.md) | [Demo](https://abc.com/xyz.png)
 
-
+* *
 ## 📊 GitHub Activity
 *I actively working on a number of private projects. [Click Here](https://github.com/saqui3001) to see My contribution graph on my Profile page.*
 
