@@ -12,8 +12,16 @@ I am into number of projects, some completed projects are as below:
 
 ### GentlemanManStyle
 Enterprise grade scalable retail e-commerce solutions for Men's Fashionwear. [Learn More](./GentlemanManStyle).
+
 [Demo](https://abc.com/xyz.png)
-[Link to another page](./another-page.html).
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+
+
+
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
