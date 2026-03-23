@@ -10,10 +10,10 @@ I built my technical foundation as an IT Trainer. Teaching others how to build a
 If you’re looking for someone who brings deep technical history and modern AI agility to the table, let’s talk. I don’t just build apps; I design solutions that work.
 
 # Projects
-  + Enterprise grade scalable retail e-commerce solutions leveraging Django/Python and React.
-  + Automation, Data Analytics and Management Dashboard leverging Python and AI Tools.
-  + Cross-platform APP development leverging Flutter.
-  + Developing plugin for WordPress.
+  1. Enterprise grade scalable retail e-commerce solutions leveraging Django/Python and React.
+  2. Automation, Data Analytics and Management Dashboard leverging Python and AI Tools.
+  3. Cross-platform APP development leverging Flutter.
+  4. Developing plugin for WordPress.
 
 # Notable Projects
 I am into number of projects, some notables are as below:
