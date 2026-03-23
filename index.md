@@ -8,8 +8,8 @@ Currently, as a Freelance Web Solution Provider, I use AI to handle the heavy li
 If you’re looking for someone who brings deep technical history and modern AI agility to the table, let’s talk. I don’t just build apps; I design solutions that work.
 
 # Notable Projects
-I am into number of projects, some notables are as below:
-
+I am into number of projects, some completed projects are as below:
+[Link to another page](./another-page.html).
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
