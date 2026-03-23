@@ -12,11 +12,11 @@ I am into number of projects, some completed projects are as below:
 
 #### GentlemanManStyle
 Enterprise grade scalable retail e-commerce solutions for Men's Fashionwear.
-> [Learn More](./GentlemanManStyle) | [Demo](https://abc.com/xyz.png)
+> [Learn More](./GentlemanManStyle.md) | [Demo](https://abc.com/xyz.png)
 
 #### GentlemanManStyle Mobile
 Cross Platform Enterprise grade retail e-commerce Mobile APP for Men's Fashionwear.
-> [Learn More](./GentlemanManStyle) | [Demo](https://abc.com/xyz.png)
+> [Learn More](./GentlemanManStyle.md) | [Demo](https://abc.com/xyz.png)
 
 
 
