@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Link to the private peivaye repository](https://github.com/YOUR_USERNAME/peivaye)
+[Link to the private GentlemanManStyle repository](https://github.com/saqui3001/GentlemanManStyle)
 
 This is a full-featured e-commerce platform I built with Django. It demonstrates my skills in back-end development, database design, and integrating third-party services.
 
