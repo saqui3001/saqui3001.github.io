@@ -19,7 +19,10 @@ Cross Platform Enterprise grade retail e-commerce Mobile APP for Men's Fashionwe
 > [Learn More](./GentlemanManStyle.md) | [Demo](https://abc.com/xyz.png)
 
 
+## 📊 GitHub Activity
+*I actively develop on 6+ private projects. My contribution graph reflects this work.*
 
+[Your contribution graph will show here]
 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
