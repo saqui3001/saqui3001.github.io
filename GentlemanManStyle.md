@@ -3,7 +3,7 @@ layout: default
 title: GentlemanManStyle
 description: Enterprise grade scalable retail e-commerce solutions for Men’s Fashionwear.
 ---
-[Link to the private GentlemanManStyle repository](https://github.com/saqui3001/GentlemanManStyle) | [Return to Index page](./index.md)
+[Link to the private GentlemanManStyle repository](https://github.com/saqui3001/GentlemanManStyle)
 
 This is a full-featured e-commerce platform I built with Django. It demonstrates my skills in back-end development, database design, and integrating third-party services.
 
