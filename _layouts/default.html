@@ -19,9 +19,22 @@
       <div class="inner">
 
         <header>
-			<h1>Abdulla Saqui</h1>
-          <!--<h2>{{ page.title | default: site.title | default: site.github.repository_name }}</h2>-->
+		  <!--<h1>Abdulla Saqui</h1>-->
+          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+			<!-- YOUR CUSTOM NAVIGATION MENU -->
+            <nav>
+                <ul>
+                    {% for item in site.navigation %}
+                        <li>
+                            <a href="{{ item.link | relative_url }}">
+                                {% if item.icon %}{{ item.icon }} {% endif %}{{ item.text }}
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </nav>
+            <!-- END CUSTOM NAVIGATION MENU -->
         </header>
         <!-- <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
