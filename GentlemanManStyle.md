@@ -16,10 +16,13 @@ This is a full-featured e-commerce platform I built with Django. It demonstrates
 
 **Admin Dashboard:** Custom Django admin interface for managing orders, products, and users.
 
-**Tech Stack:**
+#### Tech Stack:
 **Backend:** Django, Django REST Framework (if applicable)
+
 **Database:** PostgreSQL
+
 **Frontend:** HTML, CSS, JavaScript (mention any specific frameworks like Bootstrap)
+
 **Other:** Stripe/PayPal API, Celery/Redis (for async tasks, if used)
 
 *(The source code for this project is in a private repository to protect its integrity, but I'm happy to discuss the implementation details!)*
