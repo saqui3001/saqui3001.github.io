@@ -137,4 +137,4 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ***
 #### ARCHITECTURE_DIAGRAMS
 
-![Branching](./ARCHITECTURE_DIAGRAMS of GentlemanManStyle.png)
+![Branching](https://saqui3001.github.io/ARCHITECTURE_DIAGRAMS%20of%20GentlemanManStyle.png)
