@@ -12,7 +12,7 @@ This is a full-featured e-commerce platform I built with Django. It demonstrates
 ###### Order Processing: Checkout flow with order creation and payment gateway integration.
 ###### Admin Dashboard: Custom Django admin interface for managing orders, products, and users.
 
-
+***
 #### Tech Stack:
 **Backend:** Django, Django REST Framework (if applicable)
 
