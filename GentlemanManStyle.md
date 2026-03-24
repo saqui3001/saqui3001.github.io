@@ -19,21 +19,21 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ###### **•** Personalized shopping experience by purchase history and style quiz.
 ###### **•** Dynamic product catalog with categories, search and filtering.
 ###### **•** API endpoints using Django REST Framework for front-end interactions with Browsers and Apps.
-###### Custom user model with registration, login and profile management.
-###### Session-based cart for guest users, persistent cart for logged-in users.
-###### Custom Django admin interface for managing orders, products and users.
-###### Advance e-commerce features like, Cart Migration, Multi-variant Product ordering and Payment processing reliability.
-###### Complete Ecommerce Retail Inventory Management system.
-###### Enterprise-level CRM capabilities with HubSpot and SalesForce integration.
-###### Complete Ecommerce Accounting capabilities with QuickBooks and Xero integration.
-###### Real-time Sales reports and performance metrics.
-###### Shipping Label and Order Fulfilment Management. 
-###### Loyalty, Promo code and Referrals.
-###### Purchase verified Reviews & Rating system with Customer Dashboard. 
-###### Social Media Authentication.
-###### Includes Shipping, Tax, Email and Storage integration.
-###### Designed with Compliance and Scalability in concern.
-###### Analytics & Tracking Features.
+###### **•** Custom user model with registration, login and profile management.
+###### **•** Session-based cart for guest users, persistent cart for logged-in users.
+###### **•** Custom Django admin interface for managing orders, products and users.
+###### **•** Advance e-commerce features like, Cart Migration, Multi-variant Product ordering and Payment processing reliability.
+###### **•** Complete Ecommerce Retail Inventory Management system.
+###### **•** Enterprise-level CRM capabilities with HubSpot and SalesForce integration.
+###### **•** Complete Ecommerce Accounting capabilities with QuickBooks and Xero integration.
+###### **•** Real-time Sales reports and performance metrics.
+###### **•** Shipping Label and Order Fulfilment Management. 
+###### **•** Loyalty, Promo code and Referrals.
+###### **•** Purchase verified Reviews & Rating system with Customer Dashboard. 
+###### **•** Social Media Authentication.
+###### **•** Includes Shipping, Tax, Email and Storage integration.
+###### **•** Designed with Compliance and Scalability in concern.
+###### **•** Analytics & Tracking Features.
 ***
 
 
