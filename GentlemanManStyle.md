@@ -13,7 +13,7 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ###### **Backend:** Django/Python, Django REST Framework
 ###### **Database:** PostgreSQL
 ###### **Frontend:** Django's built-in templating engine, HTML, Tailwind CSS, JavaScript
-###### **Other:** Redis, Celery, APIs: Stripe, HubSpot, Xero, EasyPost/SHIPSTATION, TaxJar/AVALARA, AWS/Cloudinary, Social Media
+###### **Other:** Redis, Celery, APIs: Stripe, HubSpot, Xero/QuickBooks, EasyPost/SHIPSTATION, TaxJar/AVALARA, AWS/Cloudinary, Social Media
 ***
 #### Key Features:
 ###### **User Authentication:** Custom user model with registration, login, and profile management.
@@ -21,7 +21,6 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ###### **Shopping Cart:** Session-based cart for guest users, persistent cart for logged-in users.
 ###### **Order Processing:** Checkout flow with order creation and payment gateway integration.
 ###### **Admin Dashboard:** Custom Django admin interface for managing orders, products, and users.
-
 ***
 
 
