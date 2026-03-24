@@ -24,15 +24,15 @@
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 			<!-- YOUR CUSTOM NAVIGATION MENU -->
             <nav>
-                <ul>
+                <!--<ul>-->
                     {% for item in site.navigation %}
-                        <li>
+                        <!--<li>-->
                             <a href="{{ item.link | relative_url }}">
                                 {% if item.icon %}{{ item.icon }} {% endif %}{{ item.text }}
                             </a>
-                        </li>
+                        <!--</li>-->
                     {% endfor %}
-                </ul>
+                <!--</ul>-->
             </nav>
             <!-- END CUSTOM NAVIGATION MENU -->
         </header>
