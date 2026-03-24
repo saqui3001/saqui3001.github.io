@@ -16,6 +16,7 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ###### **Other:** Redis, Celery, APIs: Stripe, HubSpot, Xero/QuickBooks, EasyPost/SHIPSTATION, TaxJar/AVALARA, AWS/Cloudinary, Social Media
 ***
 #### Key Features:
+***
 ###### **•** Personalized shopping experience by purchase history and style quiz.
 ###### **•** Dynamic product catalog with categories, search and filtering.
 ###### **•** API endpoints using Django REST Framework for front-end interactions with Browsers and Apps.
