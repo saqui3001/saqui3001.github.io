@@ -86,7 +86,7 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ###### **•** Added CSRF protection, rate limiting, and secure session management
 ###### **•** Built GDPR-compliant features including data export and account deletion
 ###### **•** Implemented secure file upload validation and XSS prevention
-##### CRM Integration & Automation:
+##### CRM Integration & Automation
 ###### **•** Created two-way sync with HubSpot CRM for customer data and order tracking
 ###### **•** Implemented abandoned cart recovery with automated email sequences
 ###### **•** Built loyalty program with referral system and tiered benefits
