@@ -7,7 +7,7 @@ description: Enterprise grade scalable retail e-commerce solutions for Men’s F
 
 *(The source code for this project is in a private repository to protect its integrity, but its implementation details are as follow and I'm happy to discuss further more!)*
 
-This is an enterprise grade full-featured e-commerce platform I built with Django. It demonstrates my skills in back-end development, front-end development using Django's built-in templating engine, database design, API development for Web/Mibile APPs and integrating third-party services. The ecommerce portal for premium menswear retail is sophisticated, production-ready, SEO optimized and scalable.
+This is an enterprise grade full-featured e-commerce platform I built with Django. It demonstrates my skills in back-end development, front-end development using Django's built-in templating engine, database design, API development for Web/Mibile APPs and integrating third-party services. This ecommerce portal for premium menswear retail is sophisticated, production-ready, SEO optimized and scalable.
 
 #### Key Features:
 ###### **User Authentication:** Custom user model with registration, login, and profile management.
