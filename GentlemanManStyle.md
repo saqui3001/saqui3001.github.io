@@ -62,6 +62,7 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ###### **•** Created detailed documentation and setup guides
 ***
 #### Technical Architecture & Implementation
+***
 ##### Core Stack & Infrastructure
 ###### **Backend Framework:** Django 5.0+ with PostgreSQL for reliable data management
 ###### **Frontend:** Tailwind CSS with responsive, mobile-first design approach
@@ -71,27 +72,25 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ###### **External Integrations:** HubSpot CRM, EasyPost shipping API, TaxJar tax calculation
 ***
 #### Key Technical Achievements
+***
 ##### Scalable Database Design
 ###### **•** Implemented 15+ normalized data models with proper relationships and constraints
 ###### **•** Added database indexes on frequently queried fields (sku, email, slug) for optimized queries
 ###### **•** Designed JSONField usage for flexible user preferences and product attributes
 ###### **•** Created comprehensive inventory tracking system with low-stock alerts
-
-
+***
 ##### Advanced E-commerce Features:
 ###### **Personalization Engine:** Built recommendation system using collaborative filtering and user behavior tracking
 ###### **Real-time Inventory:** Implemented stock management with reservation system during checkout
 ###### **Multi-variant Products:** Designed flexible system for size/color combinations with individual pricing
 ###### **Tax & Shipping Integration:** Integrated third-party APIs for automated tax calculation and real-time shipping rates
-
- 
+***
 ##### Security & Compliance
 ###### **•** Implemented PCI DSS compliance using Stripe tokenization (never storing card data)
 ###### **•** Added CSRF protection, rate limiting, and secure session management
 ###### **•** Built GDPR-compliant features including data export and account deletion
 ###### **•** Implemented secure file upload validation and XSS prevention
-
- 
+***
 ##### CRM Integration & Automation
 ###### **•** Created two-way sync with HubSpot CRM for customer data and order tracking
 ###### **•** Implemented abandoned cart recovery with automated email sequences
