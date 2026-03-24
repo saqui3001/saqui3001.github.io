@@ -135,3 +135,6 @@ This is an enterprise grade full-featured e-commerce platform I built with Djang
 ###### **External API Integrations:** 5
 ###### **Test Coverage:** 85%+
 ***
+#### ARCHITECTURE_DIAGRAMS
+
+![Branching](./ARCHITECTURE_DIAGRAMS of GentlemanManStyle.png)
