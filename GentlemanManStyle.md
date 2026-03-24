@@ -4,7 +4,9 @@ title: GentlemanStyle
 description: Enterprise grade scalable retail e-commerce solutions for Men’s Fashionwear.
 ---
 [Link to the private GentlemanManStyle repository](https://github.com/saqui3001/GentlemanManStyle)
+
 *(The source code for this project is in a private repository to protect its integrity, but its implementation details are as follow and I'm happy to discuss further more!)*
+
 This is an enterprise grade full-featured e-commerce platform I built with Django. It demonstrates my skills in back-end development, front-end development using Django's built-in templating engine, database design, API development for Web/Mibile APPs and integrating third-party services. The ecommerce portal for premium menswear retail is sophisticated, production-ready, SEO optimized and scalable.
 
 #### Key Features:
