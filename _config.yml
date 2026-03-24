@@ -2,3 +2,7 @@ theme: jekyll-theme-tactile
 title: A. Saqui's page
 description: Bookmark this to keep an eye on my skills and innovations!
 show_downloads: false
+navigation:
+  - text: "Home"
+    link: "/"
+    icon: "🏠"
