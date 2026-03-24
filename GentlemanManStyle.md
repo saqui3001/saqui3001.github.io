@@ -9,21 +9,19 @@ description: Enterprise grade scalable retail e-commerce solutions for Men’s F
 
 This is an enterprise grade full-featured e-commerce platform I built with Django. It demonstrates my skills in back-end development, front-end development using Django's built-in templating engine, database design, API development for Web/Mibile APPs and integrating third-party services. This ecommerce portal for premium menswear retail is sophisticated, production-ready, SEO optimized and scalable.
 
+#### Tech Stack:
+###### **Backend:** Django/Python, Django REST Framework
+###### **Database:** PostgreSQL
+###### **Frontend:** Django's built-in templating engine, HTML, Tailwind CSS, JavaScript
+###### **Other:** Redis, Celery, APIs: Stripe, HubSpot, Xero, EasyPost/SHIPSTATION, TaxJar/AVALARA, AWS/Cloudinary, Social Media
+***
 #### Key Features:
 ###### **User Authentication:** Custom user model with registration, login, and profile management.
-###### Product Management: Dynamic product catalog with categories, search, and filtering.
-###### Shopping Cart: Session-based cart for guest users, persistent cart for logged-in users.
-###### Order Processing: Checkout flow with order creation and payment gateway integration.
-###### Admin Dashboard: Custom Django admin interface for managing orders, products, and users.
+###### **Product Management:** Dynamic product catalog with categories, search, and filtering.
+###### **Shopping Cart:** Session-based cart for guest users, persistent cart for logged-in users.
+###### **Order Processing:** Checkout flow with order creation and payment gateway integration.
+###### **Admin Dashboard:** Custom Django admin interface for managing orders, products, and users.
 
 ***
-#### Tech Stack:
-**Backend:** Django, Django REST Framework (if applicable)
-
-**Database:** PostgreSQL
-
-**Frontend:** HTML, CSS, JavaScript (mention any specific frameworks like Bootstrap)
-
-**Other:** Stripe/PayPal API, Celery/Redis (for async tasks, if used)
 
 
