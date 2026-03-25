@@ -3,7 +3,7 @@ layout: default
 title: GentlemanStyle
 description: Enterprise grade scalable retail e-commerce solutions for Men’s Fashionwear.
 ---
-[Link to the private GentlemanManStyle repository](https://github.com/saqui3001/GentlemanManStyle)
+[Link to the private GentlemanStyle repository](https://github.com/saqui3001/GentlemanManStyle)
 
 *(The source code for this project is in a private repository to protect its integrity, but its implementation details are as follow and I'm happy to discuss further more!)*
 
