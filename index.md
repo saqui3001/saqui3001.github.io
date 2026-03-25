@@ -8,15 +8,15 @@ Currently, as a Web Solution Provider, I use AI to handle the heavy lifting of c
 If you’re looking for someone who brings deep technical history and modern AI agility to the table, let’s talk. I don’t just build apps; I design solutions that work.
 
 ## Notable Projects
-I am into number of projects, some completed projects are as below:
+I am into number of projects, completed projects are as below:
 
 #### GentlemanStyle
 Enterprise grade scalable retail e-commerce solutions for Men's Fashionwear.
-> [Learn More](./GentlemanManStyle.md) | [Demo](https://saqui3001.github.io/#)
+> [Learn More](./GentlemanStyle.md) | [Demo](https://saqui3001.github.io/#)
 
-<!-- #### GentlemanManStyle Mobile
+<!-- #### GentlemanStyle Mobile
 Cross Platform Enterprise grade retail e-commerce Mobile APP for Men's Fashionwear.
-> [Learn More](./GentlemanManStyle.md) | [Demo](https://abc.com/xyz.png) -->
+> [Learn More](./GentlemanStyle.md) | [Demo](https://abc.com/xyz.png) -->
 
 ***
 ## 📊 GitHub Activity
