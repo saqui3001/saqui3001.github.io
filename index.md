@@ -10,7 +10,7 @@ If you’re looking for someone who brings deep technical history and modern AI 
 ## Notable Projects
 I am into number of projects, some completed projects are as below:
 
-#### GentlemanManStyle
+#### GentlemanStyle
 Enterprise grade scalable retail e-commerce solutions for Men's Fashionwear.
 > [Learn More](./GentlemanManStyle.md) | [Demo](https://abc.com/xyz.png)
 
