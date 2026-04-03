@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GentlemanStyle
-description: Enterprise grade scalable retail e-commerce solution for Men’s Fashionwear.
+description: Enterprise grade scalable retail e-commerce engine for apparel and accessories.
 ---
 [Link to the private GentlemanStyle repository](https://github.com/saqui3001/GentlemanManStyle)
 
