@@ -11,7 +11,7 @@ If you’re looking for someone who brings deep technical history and modern AI 
 I am into number of projects, completed projects are as below:
 
 #### GentlemanStyle
-Enterprise grade scalable retail e-commerce solution for Men's Fashionwear.
+Enterprise grade scalable retail e-commerce engine for apparel and accessories.
 > [Learn More](./GentlemanStyle.md) | [Demo](https://saqui3001.github.io/#)
 
 <!-- #### GentlemanStyle Mobile
